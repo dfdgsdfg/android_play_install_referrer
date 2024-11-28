@@ -1,6 +1,8 @@
 ## 0.4.1 
 * Migrate Gradle's declarative plugins {} block for the example project
-* https://docs.flutter.dev/release/breaking-changes/flutter-gradle-plugin-apply
+  * https://docs.flutter.dev/release/breaking-changes/flutter-gradle-plugin-apply
+* Updates Gradle to 8.9
+* Updates AGP to 8.1.4
 
 ## 0.4.0
 * Updates Gradle to 8.3
